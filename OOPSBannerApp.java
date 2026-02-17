@@ -1,24 +1,6 @@
-/**
- * OOPS Banner App - Use Case 1: Print OOPS
- * 
- * This class demonstrates the foundational Java concepts:
- * - Class as a container for logic
- * - Main method as the application entry point
- * - Static keyword for class-level access
- * - System.out.println() for console output
- * 
- * @author ik0425
- * @version 1.0
- */
+// UC2: Java program to display a banner for the OOPSBannerApp
 public class OOPSBannerApp {
-    
-    /**
-     * Main method - the entry point of the Java application
-     * Prints the literal text "OOPS" to the console
-     * 
-     * @param args Command line arguments (not used in this implementation)
-     */
     public static void main(String[] args) {
-        System.out.println("OOPS");
+        System.out.println("Welcome to the OOPSBannerApp!");
     }
 }
